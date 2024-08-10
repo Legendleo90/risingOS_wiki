@@ -1,0 +1,24 @@
+{
+    "PACKAGES_M11": [
+        "com.ea.gp.apexlegendsmobilefps",
+        "com.mobilelegends.mi",
+        "com.levelinfinite.hotta.gp",
+        "com.supercell.clashofclans",
+        "com.vng.mlbbvn"
+    ],
+    "PACKAGES_M11_DEVICE": {
+        "MANUFACTURER": "Xiaomi",
+        "MODEL": "2107113SI"
+    },
+    "PACKAGES_SNAPCHAT": [
+        "com.snapchat.android"
+    ],
+    "PACKAGES_SNAPCHAT": {
+        "BRAND": "google",
+        "DEVICE": "walleye",
+        "MANUFACTURER": "Google",
+        "PRODUCT": "walleye",
+        "FINGERPRINT": "google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys",
+        "MODEL": "Pixel 2"
+    }
+}

@@ -1,12 +1,12 @@
 # RisingOS Wiki
 
 ## Guides
-- **GameProps JSON format:**
-    - [Sample GameProps JSON](https://github.com/RisingOS-staging/risingOS_wiki/blob/master/spoofing/GameProps/gameprops.json)
-    - [GameProps README](https://github.com/RisingOS-staging/risingOS_wiki/blob/master/spoofing/GameProps/README)
+- **Per-App Spoofing JSON format:**
+    - [Sample Per-app spoofing JSON](https://github.com/RisingTechOSS/risingOS_wiki/blob/fourteen/spoofing/AppSpoofing/appspoof.json)
+    - [Per-app spoofing README](https://github.com/RisingTechOSS/risingOS_wiki/blob/fourteen/spoofing/AppSpoofing/README)
 - **PlayIntegrity JSON format:**
-    - [Sample PlayIntergrityFix JSON](https://github.com/RisingOS-staging/risingOS_wiki/blob/master/spoofing/PlayIntergrity/pif.json)
-    - [PlayIntergrityFix README](https://github.com/RisingOS-staging/risingOS_wiki/blob/master/spoofing/PlayIntergrity/README)
+    - [Sample PlayIntergrityFix JSON](https://github.com/RisingTechOSS/risingOS_wiki/blob/fourteen/spoofing/PlayIntergrity/pif.json)
+    - [PlayIntergrityFix README](https://github.com/RisingTechOSS/risingOS_wiki/blob/fourteen/spoofing/PlayIntergrity/README)
 ---
 
 
